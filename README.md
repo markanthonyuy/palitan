@@ -1,2 +1,2 @@
-# palitan
+# Palitan
 Simple currency exchange rate.
